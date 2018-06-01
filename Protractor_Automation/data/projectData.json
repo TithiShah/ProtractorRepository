@@ -1,0 +1,16 @@
+{
+  "Webtables_url": "http://www.way2automation.com/angularjs-protractor/webtables",
+
+  "Add_FirstName": "test first",
+  "Add_LastName": "test last",
+  "Add_UserName": "test angular",
+  "Add_Password": "123456",
+  "Add_Email": "testsample@gmail.com",
+  "Add_MobileNo": "9924152591",
+
+  "Edit_FirstName":"Updated First",
+  "Edit_LastName": "Updated Last",
+  "Edit_UserName": "Updated Angular",
+
+  "bank_url":"http://www.way2automation.com/angularjs-protractor/banking"
+}
