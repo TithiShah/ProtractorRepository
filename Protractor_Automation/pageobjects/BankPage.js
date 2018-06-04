@@ -55,7 +55,7 @@ var BankPage= function () {
         btnDeposite.click();
         browser.sleep(3000);
         expect(Successmsg.isDisplayed()).toBe(true);
-        expect(Successmsg.getText()).toBe('Deposit Successful ihkkjhkj');
+        expect(Successmsg.getText()).toBe('Deposit Successful');
     };
 
     this.PerformWithdrawl=function () {
