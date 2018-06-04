@@ -15,6 +15,11 @@ exports.config = {
             'browser': 'INFO'
         }
     },
+	
+	webdriverVersions: {
+        'seleniumServerJar': './node_modules/selenium-server-standalone-jar/jar/selenium-server-standalone-3.12.0.jar'
+    },
+	
     framework: 'jasmine',
 
     specs: ['./specs/Bankspec.js'],
