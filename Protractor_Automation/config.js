@@ -3,12 +3,10 @@ var log4js = require('log4js');
 var logger = log4js.getLogger();
 
 exports.config = {
-    seleniumAddress: 'http://localhost:4444/wd/hub',
+    //seleniumAddress: 'http://localhost:4444/wd/hub',
 
     capabilities: {
         'browserName': 'internet explorer',
-        'platform': 'ANY',
-        'version': '11',
         'loggingPrefs': {
             'driver': 'WARNING',
             'server': 'WARNING',
