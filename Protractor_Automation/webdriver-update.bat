@@ -1,1 +1,1 @@
-webdriver-manager update --ignore_ssl --ie & webdriver-manager update --ignore_ssl & webdriver-manager start --ignore_ssl
+webdriver-manager update --ignore_ssl --ie & webdriver-manager update --ignore_ssl
