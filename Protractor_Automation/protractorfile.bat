@@ -1,0 +1,1 @@
+protractor config.js --capabilities.browserName "internet explorer"
