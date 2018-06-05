@@ -135,8 +135,8 @@ app.controller('ScreenshotReportController', function ($scope) {
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "sessionId": "7b0469b80705091e10604c8d49b42e3a",
-        "instanceId": 2944,
+        "sessionId": "8d99db49eb7a796a2b8cba3c48c68ea4",
+        "instanceId": 6864,
         "browser": {
             "name": "chrome",
             "version": "66.0.3359.181"
@@ -144,8 +144,25 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "timestamp": 1528181839667,
-        "duration": 29734
+        "timestamp": 1528183145992,
+        "duration": 29088
+    },
+    {
+        "description": "To check the money withdrawel functionality.|Bank Application",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "8d99db49eb7a796a2b8cba3c48c68ea4",
+        "instanceId": 6864,
+        "browser": {
+            "name": "chrome",
+            "version": "66.0.3359.181"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "timestamp": 1528183175284,
+        "duration": 7623
     }
 ];
 

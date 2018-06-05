@@ -7,6 +7,8 @@ exports.config = {
 
     capabilities: {
         'browserName': 'internet explorer',
+ 	'platform': 'ANY',
+        'version': '11',
         'loggingPrefs': {
             'driver': 'WARNING',
             'server': 'WARNING',
